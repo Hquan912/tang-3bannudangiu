@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Gửi 3 bạn đáng iu!',
+    introDesc: `   Chúng tôi là 3 th tồi tệ Ngô, Quân, Hải
+    Hẫy bấm vào nút bên dưới để nhận một món quà siu to khổng lồ `,
+    btnIntro: 'đây nè 3 má',
+    title: 'Lời xin lũi mụn màng từ 3 chàng trai đãng trí :( ',
+    desc: ' Tha lỗi choa chúng tôi nhé, quên tạm thời v thui chớ iu quý 3 bạn nhất, tha lỗi ik bao 1 trầu lẩu nhé ',
+    btnYes: 'Oke tha lỗi cho lần này nhé',
+    btnNo: 'Không, cút đi 3 th tồi tệ',
+    question:'3 bạn có muốn chúng tôi thay đổi điều gì hom',
+    btnReply: 'gửi cho chúng tui',
+    reply: 'không đâu 3 cậu là tuyệt vời nhất <33333333',
+    mess: 'Hehehe chúng tui biết mà. Không chỉ tuyệt mà còn đẹp zai nữa nhé',
+    messDesc: 'Tối mai chúng ta cùng nhau bonding tâm hự nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/hoang.quan.091203/'  
 }
