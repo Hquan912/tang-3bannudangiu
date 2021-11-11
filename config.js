@@ -1,6 +1,6 @@
 
 const CONFIG = {
-    introTitle: Xin chèoo! ,
+    introTitle: Xin chàoo! ,
     introDesc: `Gởi choa bạn Quềnh aka bé mèo bíu siu đáng iu
     Ấn vô dưới để cóa nhiều điều bất ngờ nhé `,
     btnIntro: 'đây nè má',
